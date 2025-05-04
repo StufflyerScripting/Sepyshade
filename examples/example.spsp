@@ -1,0 +1,8 @@
+#sepyv 1.0
+
+vec Color = vector(3).new{0.0, 2.0, 6.0};
+
+__def main(){
+	out = color;
+	sps>>efunction() & color;
+}
